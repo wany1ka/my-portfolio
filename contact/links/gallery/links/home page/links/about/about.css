@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(assets/grey\ mt.avif);
+    background-position: center;
+}
+
+.desc{
+    color: antiquewhite;
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+
+}
+
+.quote{
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+    color: #463f3a;
+}
+
+/* .f1-car{
+    width: 300px;
+    margin-left: 90px;
+    margin-right: 90px;
+    float: right;
+  
+} */
+
+.me{
+    width: 300px;
+    float: right;
+}
+
+.moon{
+    width: 100px;
+    float: left;
+    border-radius: 200px;
+}
+
+footer{
+    background-color: white;
+}

@@ -1,0 +1,22 @@
+body{
+    background-image: url(assets/f1.jpg);
+}
+
+.quote{
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+    color: #463f3a;
+}
+
+.cont{
+    color: #dda15e;
+}
+
+.row{
+    color: #d00000;
+}
+
+#cr{
+    color: black;
+}
